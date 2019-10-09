@@ -1,0 +1,21 @@
+.header {
+	width:100%
+	margin: 0 auto;
+	text-align:center;
+}
+
+.posts {
+	width:100%
+	margin: 0 auto;
+	text-align:center;
+
+}
+
+.a {
+	style: color=black;
+}
+
+#home a:link { color: black; }
+#home a:visited { color: black; }
+#home a:hover { color: gray; }
+#home a:active { color: black; }
