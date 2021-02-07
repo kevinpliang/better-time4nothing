@@ -1,18 +1,26 @@
 .header {
-	width:100%
+	width:100%;
 	margin: 0 auto;
 	text-align:center;
 }
 
 .posts {
-	width:100%
+	width:100%;
 	margin: 0 auto;
 	text-align:center;
 
 }
 
+#footer {
+	width:99%;
+	color: #C4C4C4;
+	text-align:center;
+	position:absolute;
+	bottom:10px;
+}
+
 .a {
-	style: color=black;
+	color:black;
 }
 
 #home a:link { color: black; }
