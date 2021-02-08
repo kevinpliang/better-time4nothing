@@ -19,6 +19,25 @@
 	bottom:10px;
 }
 
+#announcement {
+	float:left;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -200px;
+    width: 400px;
+    height: 200px;
+	text-align: justify;
+ 	text-justify: inter-word;
+}​
+
+#signup {
+	width:100%;
+	margin: 0 auto;
+	text-align:center;
+}
+
 .a {
 	color:black;
 }
